@@ -1,0 +1,10 @@
+body {
+  background-color: bisque;
+  color: darkslategray;
+  font-size: 25px;
+}
+.main-header {
+  text-align: center;
+  color: dimgrey;
+  background-color: white;
+}
