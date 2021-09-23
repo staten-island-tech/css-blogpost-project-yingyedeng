@@ -1,10 +1,17 @@
 body {
-  background-color: bisque;
-  color: darkslategray;
+  background: bisque;
+  color: grey;
   font-size: 25px;
 }
-.main-header {
+.head {
   text-align: center;
-  color: dimgrey;
   background-color: white;
+  margin-left: 500px;
+  margin-right: 500px;
+}
+.head2 {
+  text-align: center;
+  background-color: white;
+  margin-left: 500px;
+  margin-right: 500px;
 }
