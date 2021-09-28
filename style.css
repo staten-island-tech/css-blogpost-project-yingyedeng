@@ -4,11 +4,15 @@ body {
   font-size: 25px;
   font-family: "Open Sans Condensed"; sans-serif;
 }
-.head {
+#id {
   text-align: center;
   background-color: white;
   margin-left: 600px;
   margin-right: 600px;
+}
+.head {
+  margin-top: -35px;
+  height: 30px;
 }
 .img {
   height: 700px;
