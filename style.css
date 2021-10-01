@@ -10,25 +10,25 @@ body {
   margin-left: 600px;
   margin-right: 600px;
 }
-.head {
+.blog-head {
   margin-top: -35px;
   height: 30px;
 }
-.img {
+.blog-img {
   height: 700px;
   margin-left: 120px;
   margin-right: 100px;
 }
-.img2 {
+.blog-img2 {
   height: 650px;
   margin-left: 55px;
 }
-.img3 {
+.blog-img3 {
   height: 800px;
   margin-left: 90px;
   margin-right: 90px;
 }
-.background {
+.blog-background {
   text-align: center;
   background-color: white;
   margin-left: 550px;
